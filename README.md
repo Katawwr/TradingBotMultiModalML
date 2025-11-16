@@ -574,3 +574,7 @@ if current_drawdown > 8%:
 - News API
 
 ---
+
+## License
+
+MIT License
